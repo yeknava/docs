@@ -200,7 +200,7 @@ You'll also need to add the Form and HTML facades and service provider. Edit `co
 Next, add these lines to the 'aliases' array:
 
 	'Form' => 'Collective\Html\FormFacade',
-	'Html' => 'Collective\Html\HtmlFacade',
+	'HTML' => 'Collective\Html\HtmlFacade',
 
 ### CacheManager
 
